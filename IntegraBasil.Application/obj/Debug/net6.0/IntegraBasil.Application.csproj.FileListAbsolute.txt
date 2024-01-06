@@ -1,0 +1,16 @@
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\bin\Debug\net6.0\IntegraBasil.Application.deps.json
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\bin\Debug\net6.0\IntegraBasil.Application.dll
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\bin\Debug\net6.0\IntegraBasil.Application.pdb
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\bin\Debug\net6.0\IntegraBasil.Domain.dll
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\bin\Debug\net6.0\IntegraBasil.Domain.pdb
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.sourcelink.json
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.csproj.CopyComplete
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.dll
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\refint\IntegraBasil.Application.dll
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\IntegraBasil.Application.pdb
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Application\obj\Debug\net6.0\ref\IntegraBasil.Application.dll

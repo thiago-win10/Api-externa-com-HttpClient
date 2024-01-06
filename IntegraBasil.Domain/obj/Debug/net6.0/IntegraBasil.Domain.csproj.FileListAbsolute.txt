@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\bin\Debug\net6.0\IntegraBasil.Domain.deps.json
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\bin\Debug\net6.0\IntegraBasil.Domain.dll
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\bin\Debug\net6.0\IntegraBasil.Domain.pdb
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\IntegraBasil.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\IntegraBasil.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\IntegraBasil.Domain.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\IntegraBasil.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\IntegraBasil.Domain.sourcelink.json
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\IntegraBasil.Domain.dll
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\refint\IntegraBasil.Domain.dll
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\IntegraBasil.Domain.pdb
+C:\Users\Thiago\Desktop\c#\IntegraBasil\IntegraBasil.Domain\obj\Debug\net6.0\ref\IntegraBasil.Domain.dll
